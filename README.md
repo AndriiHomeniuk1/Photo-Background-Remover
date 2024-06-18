@@ -68,7 +68,7 @@ This Python script is designed to process images and efficiently remove their ba
   ```
 Author:
 Andrii Homeniuk
-Contact: andreyGomenuk@gmail.com
+Contact: andreygomenuk@gmail.com
 
 
 
