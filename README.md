@@ -1,5 +1,9 @@
 # Photo-Background-Remover
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="Image_Samples/Daniel_Craig_2021.png" width="300" alt="Original Image">
+    <img src="Image_Samples/Daniel_Craig_processed.PNG" width="390" alt="Processed Image">
+
 This Python script is designed to process images and efficiently remove their backgrounds. It offers two main modes of operation: processing a single image and processing a folder of images.
 
 ## Features:
